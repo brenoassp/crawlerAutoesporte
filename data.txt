@@ -1,0 +1,1389 @@
+{
+    "title": "Donald Trump quer impedir vendas de carros alemães nos EUA",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/donald-trump-quer-impedir-vendas-de-carros-alemaes-nos-eua.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/W63lcYiiqQM2rh9slGEjneh1FIQ=/620x413/e.glbimg.com/og/ed/f/original/2017/01/03/trumpdiscurso.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Durante um encontro de chefes de estado o presidente americano Donald Trump repreendeu a Alemanha e prometeu pôr um fim às exportações de carros alemães para os Estados Unidos. O jornal alemão Der Spiegel afirma que \"um círculo de participantes\" do evento disse que Trump proferiu duras palavras sobre o que ele chama de desequilíbrio comercial entre Alemanha e EUA.",
+            "type": "text"
+        },
+        {
+            "content": "O presidente supostamente disse aos lideres: \"Os alemães são maus, muito maus ... Olhe para os milhões de carros que vendem nos EUA. Vamos parar com isso\". Outras publicações também citaram que Trump estava descontente com o superávit comercial do setor automotivo da Alemanha em relação aos Estados Unidos.",
+            "type": "text"
+        },
+        {
+            "content": "Trump também possui um histórico de pressionar as montadoras para produzir dentro do território americano para aumentar a geração de empregos. O presidente vêm criticado o setor automobilístico por fabricar carros no México e outros países. Trump chegou a usar sua conta no Twitter para ameaçar impor uma taxa de imposto de 35% sobre veículos e peças importados.",
+            "type": "text"
+        }
+    ]
+}
+{
+    "title": "Hyundai lança série de vídeos teaser do SUV Kona",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/hyundai-lanca-serie-de-videos-teaser-do-suv-kona.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/08eQ1338ZFGnElc8nX68w8E5Pbo=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/kona.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A Hyundai lançou uma série de vídeos como parte da divulgação de seu novo crossover, o Kona, que será lançado no segundo semestre deste ano. Infelizmente não é possível ver muita coisa, porém, um dos filmes mostra as linhas e a lateral do veículo. É possível ver as luzes traseiras estreitas e os arcos da roda que compõem a baixa distância do carro ao solo.",
+            "type": "text"
+        },
+        {
+            "content": "Veja todos os vídeos teaser abaixo:",
+            "type": "text"
+        }
+    ]
+}
+{
+    "title": "Jaguar revela protótipo XE SV Project 8 com 600 cv",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/jaguar-revela-prototipo-xe-sv-project-8-com-600-cv.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/Il8vN_NTHG-TCnSqd04_0LoH8Ew=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/xesvproject8nbr0311_Esd5LCh.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A Jaguar apresentou hoje (26) o novo XE SV Project 8, o sedã médio de performance mais potente da marca atualmente. O modelo foi representanto por um protótipo ainda camuflado durante o primeiro teste no tradicional circuito de Jaguar XE SV Project 8 (Foto: Divulgação)",
+            "type": "text"
+        },
+        {
+            "content": "O Project 8 é equipado com motor V8 5.0 atualizado para oferecer 590 cv de potência. Mais especificações serão reveladas no dia 28 de junho durante a estreia global do modelo. Ao atingir a produção, o Project 8 estará limitado a apenas 300 unidades ao redor do mundo. Este é o segundo modelo SVO de edição limitada que segue o F-Type Project 7 de 2014 .",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/4tTTCffmWf4-rlMErtk2VKMYKDA=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/xesvproject8nbr0366.jpg",
+            "type": "image"
+        },
+        {
+            "content": "John Edwards, diretor de marketing das operações Jaguar Land Rover, afirmou que os clientes da marca em todo o mundo ficaram entusiasmados com o Projeto F-Type 7. \" O novo Projeto XE SV 8 leva aerodinâmica e engenharia de desempenho a outro nível - é concebido para entusiastas e colecionadores mais exigentes. O preço de um carro de esporte de desempenho extremo disponível em unidades estritamente limitadas irá refletir isso \", completou.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2015/05/entrevistamos-o-brasileiro-que-criou-o-project-7-da-jaguar.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/jaguar-divulga-fotos-da-perua-xf-sportbrake-camuflada.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "http://s2.glbimg.com/_wy-Wm4senTT8xmKsqzKwQd5dks=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/xesvproject8nbr0881.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Confira o vídeo do teste:",
+            "type": "text"
+        }
+    ]
+}
+{
+    "title": "BMW apresenta conceito Série 8",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-apresenta-conceito-serie-8.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/Xqgl2TdN6Ahvho_ec0iKmi86jcQ=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_5.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A BMW lançou no Concorso d'Eleganza Villa d'Este, na Itália, o conceito Série 8 . O modelo deve chegar ao mercado no ano que vem mas a marca ainda não divulgou detalhes técnicos. No entanto, podemos adiantar que o esportivo será produzido na mesma plataforma do Série 5 e Série 7 , chamada CLAR. Além disso, o carro terá a mesma carroceria cupê de seu antecessor , lançado em 1989.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-lanca-conceito-de-moto-eletrica.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-m5-2018-tem-novos-detalhes-vazados.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "Confira as fotos do conceito:",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/e4GuSsQQ79GeHG10Ov3f2UijEOI=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_12.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/1rKs6M9SkYa2cm1dYbtk59maVw8=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_11.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/kg2hX6SJCR7ym8LCYnaUdozDEww=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_10.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/WJlim0O2ThKSOILmofNfkQirB0M=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_7.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/5Jf0FbO5aA5iwVTa2voyxYOG6kw=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_4.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/8AXsyvTkjEtJger0NhzeXutZ2tU=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_1.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/dKQFNmMthUS4AIgMoq1GIkuVPlw=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_2.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/AfLGK0fwGp1-guxpLw5iFH2JbV8=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_13.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/EEw-JiEq9nRDrCORcll_tkNWaSg=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/bmw_9.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "Renault Mégane R.S. aparece durante os treinos da F1... camuflado!",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/renault-megane-rs-aparece-durante-os-treinos-da-f1-camuflado.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/9fVmNGqlHwS46ylAC_ZUaJnHmXI=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/1_o5MhcA9.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A Renault criou expectativas em relação ao Mégane R.S. , que deveria aparecer pela primeira vez durante os treinos livres da Fórmula 1 para o Grande Prêmio de Mônaco, e isso até aconteceu, só que... bem, nada de novo foi revelado e o hatch deu voltas no circuito totalmente camuflado – ou seja, como já conhecíamos até agora .",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/Y0x-0O8szN4IOvtKYzjuzcFMqIY=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/2.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Pensando bem, até dá para entender a ação da marca. Afinal, o hot hatch só será apresentado ao público durante o Salão de Frankfurt , marcado para setembro deste ano (e ainda faltam quatro meses até lá). Pelo menos sabemos que haverá a opção de câmbio manual, além da automatizada com dupla embreagem, e o motor com mais de 300 cv .",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2016/07/novo-renault-megane-rs-tera-mais-de-300-cv-de-potencia.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/03/renault-divulga-teaser-do-novo-megane-rs.html"
+            ],
+            "type": "links"
+        }
+    ]
+}
+{
+    "title": "BMW lança conceito de moto elétrica",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-lanca-conceito-de-moto-eletrica.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/fYfYEiIHLJHEB9rZtJXjFT43Q-k=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/bmw.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A BMW lançou um conceito de uma motocicleta elétrica com algumas características diferentes das motos convencionais. A Motorrad Concept Link conta com um painel projetado diretamente no para-brisas , onde aparecem dados como, velocidade, informações sobre a bateria e navegação. A posição do painel faz com que ocorram menos distrações e consequentemente traz menor riscos de acidentes.",
+            "type": "text"
+        },
+        {
+            "content": "Abaixo do guidão fica um painel sensível ao toque com informações adicionais que permitem acesso a diversas funções de info-entretenimento. Os guidões contam com botões para que o piloto não tenha que tirar as mãos da direção enquanto ajusta o sistema.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/YBoS_iJwwiQH3KfvN-jKn_RbLt4=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/bmw_2.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Outro diferencial é a altura do conceito, que é mais baixo que os modelos convencionais, facilitando na hora de subir na moto. O banco pode ser ajustado de acordo com o número de passageiros.",
+            "type": "text"
+        },
+        {
+            "content": "O conceito é inspirado na BMW Vision NEXT 100 , revelada em outubro do ano passado e, assim como a última, não será produzida. A Link está sendo apresentada no evento Concorso d'Eleganza Villa d'Este, que acontece em Como, na Itália.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fotos-do-novo-bmw-serie-8-sao-divulgadas.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-m5-2018-tem-novos-detalhes-vazados.html"
+            ],
+            "type": "links"
+        }
+    ]
+}
+{
+    "title": "Teste: Kymco People GTI 300i e Downtown 300i",
+    "link": "http://revistaautoesporte.globo.com/testes/noticia/2017/05/teste-kymco-people-gti-300i-e-downtown-300i.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/YBBwEYibD3AjEPNUAPLxA9Q5vVg=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/people_e_downtown_2.jpg",
+            "type": "image"
+        },
+        {
+            "content": "País em crise política e econômica, tudo meio parado, mercado de motocicletas estagnado e... o segmento de scooters é o único que cresce. Daí que as principais marcas apostam as fichas nesse meio de campo. A Dafra saiu na frente com Citycom 300i, Maxsym 400 e Cityclass 200; a Yamaha veio com Neo 125 e Nmax 160; a Honda com PCX 150, SH 300i e SH 150i; e, agora, a Suzuki com as marcas Kymco e Haojue. E nós já aceleramos os Kymco People GTI 300i e Downtown 300i para ver se fazem frente aos rivais que rodam por aí.",
+            "type": "text"
+        },
+        {
+            "content": "Os dois modelos têm a mesma origem: a Kymco é a principal marca de motos de Taiwan e a quinta maior produtora de scooters do mundo. Faz o motor das BMW G450 X e até o gerador do carro elétrico BMW i3. A mecânica do People e do Downtown também é basicamente a mesma, com ligeiras diferenças de calibragem. Seus preços, igualmente, são bem próximos — o People custa R$ 19 mil e o Downtown sai por R$ 20 mil. Mas, curiosamente, as propostas são um pouco diversas. Enquanto o primeiro é simples e ágil, o segundo é um pouco maior e mais sofisticado.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/vUHbxgLFJnVEG3FF20sJKx_4EIw=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/people.jpg_2.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Começamos nossa avaliação com o People GTI 300i. O estilo é similar ao do concorrente Honda SH 300i: entre-eixos relativamente curto, posição de pilotagem reta e alta, assoalho plano — os pés ficam juntos e protegidos atrás do escudo frontal — e farol que acompanha os movimentos do guidão. O desenho é conservador, mas não chega a ser feioso. Tem até ousadias como as luzes diurna de leds à frente e piscas que se estendem pelas laterais da rabeta. A lanterna é grande, remetendo a motos e scooters dos anos 1990.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/uUILnzKY0JQoeW4uKmYW2Elppc0=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/people.jpg_3.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O People surpreende desde o começo: tem pegada! Responde com atrevimento às chamadas no acelerador e não dá aquela patinada asmática inerente aos scooters, em que o ronco sobe primeiro e a força só pinta um átimo depois. Aqui, acelerou, andou. E o modelo serpenteia com leveza por entre os carros, cumprindo com sobras sua função urbana.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/_lXik2qHbpVB1VLwsTBfLXTAPgA=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/people.jpg_8.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Em baixas ou altas velocidades, o People se sai bem. E vale dizer que, em meio à floresta de radares que temos nas ruas do Rio de Janeiro (RJ), é preciso atenção — o bichinho chega fácil aos 100 km/h! Nas curvas, o piloto tem que se habituar. Como vai sentado em posição bem alta, parece que está deitando demais. Mas é questão de tempo para ver que esse scooter contorna bem e com segurança.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/58taUvTdvy745bsFv9MavAO_JOY=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/people.jpg_4.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Parte disso se deve às suspensões, que têm calibragem dura e pouco curso — principalmente na dianteira. Essa mesma característica, contudo, compromete o conforto. Se no asfalto liso o People vai bem, qualquer irregularidade é repassada para o piloto — o banco é mais anatômico do que macio.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/IGKzYLtsfz2RW2ifFiKn8zhAC1Q=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/people.jpg_1.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Os freios funcionam não dão sustos, porém, é preciso certo cuidado para não travar as rodas, mesmo equipado com ABS. E o painel de instrumentos, cujo desenho é engraçadinho com seu aspecto meio vintage, permite razoável leitura no velocímetro analógico e nas poucas informações no mostrador digital, posicionado logo abaixo.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/nOf7TDph4xPXfcCoZ1l0AUucO8c=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/donwtown_2.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Chega a hora de me aboletar no Downtown 300i. Temos aqui um scooter mais encorpado e elegante (não à toa, serve como base para o Kawasaki J300 vendido na Europa). A frente é imponente, com dois conjuntos óticos verticalizados e cobertos por grandes lentes — piscas lá no alto, faróis no meio e os LEDs de circulação diurna mais embaixo. Ao contrário do que ocorre no People, esses conjuntos são fixos na carenagem.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/OXq4fxXIgxxdXfZWuLx--niYg-I=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/donwtown_4.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O assoalho não é plano e tem aquela parte abaulada no meio. As pernas se encaixam nas laterais e os pés vão apoiados no interior do escudo, em posição parcialmente inclinada. Ali no mei,o há uma portinhola que dá acesso ao bocal do tanque — no People, o bocal é sob o banco. Sob o assento, aliás, o People leva apenas documentos e uma capa de chuva (e tem uma tomadinha 12 v), enquanto o Downtown acomoda dois capacetes (um fechado e um aberto, estilo “frango”), além de miudezas.",
+            "type": "text"
+        },
+        {
+            "content": "O banco é mais sofazão e melhor em todos os aspectos: tamanho, maciez e desenho. Tem até um apoio lombar para o piloto. Na parte interna do escudo, há um porta-luvas de tamanho razoável com tomada 12 v. Nesse quesito, os Dafra estão na frente: já vêm até com conexão USB para carregar dispositivos eletrônicos. Ainda assim, o Downtown impressiona e tem um painel completo bonito, que dá gosto de conferir toda hora.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/XzgKMsAnmbwz8FNOrdTLAemUIKY=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/donwtown_3.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Na hora de acelerar, porém, o desempenho é discretamente inferior ao do People. Não é ruim, porém, faltam aqui a leveza e a agilidade do outro. O Downtown é mais pesadão e as mudanças de trajetória são mais lentas. Isso se explica, em parte, por números: são 2,20 metros de comprimento, com entre-eixos de 1,55 m e 167 kg de peso, enquanto o People é 6 cm mais curto, tem entre-eixos 10 cm menor e pesa 2 kg a menos.",
+            "type": "text"
+        },
+        {
+            "content": "Enquanto o People pode ser usado no dia a dia, com a vantagem da cilindrada e da força sobre os modelos menores, o Downtown é mais indicado para passeios com a patroa e curtições em geral. Acelera bem, embora sem o mesmo brilho do irmão, faz curvas com segurança, porém com possibilidades menos radicais, e freia melhor — além de ter ABS. Só não oferece aquela mesma pegada, nem a mesma praticidade. Um exemplo disso é que o People vem com bagageiro e baú, enquanto o Downtown só traz bagageiro.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/ZQWf3AFfOzBScmOJrad4MEYFr-E=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/donwtown_6.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A grande vantagem do Downtown é, mesmo, o conforto. A posição de pilotagem é mais agradável e transmite mais segurança, e o banco é melhor, permitindo que corpo fique mais relaxado. Já as suspensões são tão rígidas quanto as do People, só que o banco mais macio o torna mais cômodo. O motor de ambos é monocilíndrico com refrigeração líquida e diâmetro e curso que o tornam praticamente quadrado (72,7 mm por 72 mm). A cilindrada é de 298 cm³.",
+            "type": "text"
+        },
+        {
+            "content": "No People são 28,9 cv de potência máxima a 7.750 rpm e 3,07 kgfm de torque a 6.250 rpm, enquanto que no Downtown a potência é um tiquinho superior — 29,7cv a 8.000 rpm — com o mesmo torque. Como as diferenças são mínimas, temos aqui um empate sem gols, com ligeira vantagem para o People GTI, por suas respostas.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/WiRwObXo4XacW2BA0vN-Gw5HlB8=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/donwtown_1.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Elucidamos a questão: quem não liga tanto para aparência e procura apenas um scooter prático e ágil, com força de sobra para enfrentar o trânsito no dia a dia, deve optar pelo arisco People. E quem prefere dar uns rolés tranquilos de fim de semana, impressionando os amigos, amigas e agradando à patroa, deve escolher o modernoso Downtown. Os preços são bons diante da concorrência: o Dafra Citycom 300i custa R$ 18 mil e seu irmão maior Maxsym sai por R$ 27 mil, enquanto o Honda SH 300i está tabelado em R$ 21 mil.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2016/10/bmw-desenvolve-moto-futurista-que-nao-cai.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/04/nova-honda-sh-150i-chega-ao-brasil-por-r-12450.html"
+            ],
+            "type": "links"
+        }
+    ]
+}
+{
+    "title": "Fiat Argo: vazam novas fotos do hatch com três diferentes cores",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-vazam-novas-fotos-do-hatch-com-tres-diferentes-cores.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/Ugq0dbODfYeRd29tQrBr-CKUlA4=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/whatsapp_image_2017-05-26_at_11.31.52.jpeg",
+            "type": "image"
+        },
+        {
+            "content": "O Fiat Argo está às vésperas da apresentação oficial , marcada para este mês, mas ainda há tempo para surgirem novas imagens do modelo – e foi justamente isso que aconteceu. No flagra, há pelo menos três unidades do hatch com placas promocionais e ao menos uma da topo de linha HGT ( lembrando que, segundo apuramos, haverá sete versões ).",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/BXPHaqUBW7RqvqN9K7l0fcn1JgE=/e.glbimg.com/og/ed/f/original/2017/05/26/whatsapp_image_2017-05-26_at_11.31.54.jpeg",
+            "type": "image"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-ja-foi-apresentado-aos-lojistas-saiba-todas-informacoes.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-catalogo-confirma-versoes-motores-e-opcionais-do-novo-argo.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "Quanto à motorização, a novidade será equipada com o 1.0 Firefly flex de três cilindros com 77 cv de potência e 10,9 kgfm de torque, além do 1.3 Firefly flex com 109 cv e 14,2 kgfm . Já a topo de linha terá o 1.8 E.torQ Evo flex, que estreou no Jeep Renegade 2017, com 139 cv e 19,3 kgfm – não é possível saber se os números continuarão iguais aos do SUV.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/EzUxMzrxVJWEliZjtniOhCCngjs=/e.glbimg.com/og/ed/f/original/2017/05/26/whatsapp_image_2017-05-26_at_11.31.56.jpeg",
+            "type": "image"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-conheca-detalhes-do-interior-do-sucessor-do-punto.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-10-surge-pela-primeira-vez-em-flagra-sem-camuflagem.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "Vale lembrar que o Argo será oferecido em nove cores. Haverá três opções sólidas para as versões Drive e Precision: Branco Banchisa, Preto Vulcano e Vermelho Alpine , além de duas exclusivas para a topo de linha HGT: Azul Portofino e Vermelho Modena . Serão quatro cores metálicas: Prata Bari, Cinza Scandium, Preto Vesúvio e Branco Alaska (perolizada).",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/7V_pMR6XM4ZrT4-IcvB-vv1jBfA=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/whatsapp_image_2017-05-26_at_11.31.50.jpeg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/XRxFpvN2cKY2t5AbyuqbkDkcmdM=/620x413/e.glbimg.com/og/ed/f/original/2017/05/26/whatsapp_image_2017-05-26_at_11.31.59.jpeg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "A história do minúsculo jipe nacional que quase virou realidade",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/historia-do-minusculo-jipe-nacional-que-quase-virou-realidade.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/4z64vBE7YV-YUbLQ6p7gMp87TNs=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/tupi_modelo_maior.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O Rio era a Capital Federal e a agenda do presidente da República era acompanhada pelo jornal “O Globo no Catete”. No dia 10 de fevereiro de 1956, entre notícias de despachos e reuniões de gabinete, foi publicada uma nota sob o título “Jipe minúsculo”. Em sete linhas, o texto contava que um certo senhor José Cardoso da Silva havia fabricado por conta própria — e levado ao palácio-sede do poder executivo brasileiro — um pequeno jipe cujo peso total era de apenas 350 quilos . Sua intenção era mostar o veículo a Juscelino Kubitschek.",
+            "type": "text"
+        },
+        {
+            "content": "Pelo que se lê na nota, o encontro não aconteceu, uma vez que o presidente se encontrava no Palácio Laranjeiras, sua residência oficial, a menos de dois quilômetros dali. O criador do jipinho então “ficou de voltar na primeira têrça-feira depois do Carnaval” e, ao repórter, afirmou que já estava construindo modelos maiores .",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/busca/click?q=jipe&p=1&r=1495676783549&u=http%3A%2F%2Frevistaautoesporte.globo.com%2FNoticias%2Fnoticia%2F2015%2F05%2Fconheca-o-jipe-feito-pela-boeing.html&t=informacional&d=false&f=false&ss=&o=&cat=",
+                "http://revistaautoesporte.globo.com/busca/click?q=jipe&p=8&r=1495676783553&u=http%3A%2F%2Frevistaautoesporte.globo.com%2FServico%2Fnoticia%2F2017%2F02%2Frecursos-road-para-que-servem-e-como-usa-los.html&t=informacional&d=false&f=false&ss=&o=&cat="
+            ],
+            "type": "links"
+        },
+        {
+            "content": "O Brasil vivia tempos de euforia com sua nascente indústria automobilística e José Cardoso da Silva (1916-1986) entrou na onda. Mecânico da cidade fluminense de Rio Bonito, ele já tinha a experiência de fabricar kits de gasogênio (durante a Segunda Guerra) e bombas hidráulicas, além de retificar motores.",
+            "type": "text"
+        },
+        {
+            "content": "Em 1953, resolveu fazer um jipinho de brinquedo para seus filhos. Nada mais era do que um Jeep Willys em escala reduzida, com 1,90 m de comprimento e carroceria de chapas dobradas .",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/Am-rlni0j2URg-0DgMjcvMYAp0w=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/tupi_com_william.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Movido por um motor estacionário Onan de dois cilindros boxer, refrigerado a ar, de 625 cm³ e 10 cv , o carro tinha chassi, suspensão dianteira, caixa de direção e carcaças de câmbio e diferencial fabricados pelo próprio José.",
+            "type": "text"
+        },
+        {
+            "content": "Com três marchas, alcançava 75 km/h . Funcionava tão bem que foi emplacado como automóvel normal e animou seu criador a partir para planos maiores.",
+            "type": "text"
+        },
+        {
+            "content": "Em 19 de fevereiro de 1954, ele foi rodando com seu jipinho pela estrada Rio-São Paulo, para provocar \"um encontro ao acaso” com o presidente Getúlio Vargas , que iria a Volta Redonda inaugurar um forno da Companhia Siderúrgica Nacional.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/c8e5OXDML799VwQgH14p4jUTXmc=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/tupi4_getulio.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Deu certo: o encontro aconteceu na Serra da Araras e José foi incorporado à comitiva oficial. Na traseira havia a inscrição: \"Sou pequeno mas sou brasileiro\".",
+            "type": "text"
+        },
+        {
+            "content": "Depois de examinar o veículo, Getúlio encarregou Amaral Peixoto, então governador do Estado do Rio, de prestar toda assistência financeira e técnica que o fabricante necessitasse para levar avante a produção industrial de um jipe.",
+            "type": "text"
+        },
+        {
+            "content": "O mecânico decidiu então fazer um modelo maior, o Tupi, com motor boxer de quatro cilindros e 800 cm³. Chegou a fazer um protótipo com estilo próprio - linhas bem diferentes das que se viam no Jeep Willys. Tinha tração 4x2 e suspensão dianteira independente .",
+            "type": "text"
+        },
+        {
+            "content": "Logo começaram os planos de fundar uma fábrica de automóveis para valer. Era a Ibasa (Indústria Brasileira de Automóveis S.A.). Mas os tempos eram outros: a morte de Getúlio e a burocracia governamental dificultaram a realização do projeto. A produção não passou de dois protótipos , além de um chassi extra completo, hoje carinhosamente preservados por Sebastião William Cardoso, filho do criativo projetista.",
+            "type": "text"
+        },
+        {
+            "content": "José Cardoso desistiu de fabricar automóveis mas, em 1964, inaugurou a Incomatol, fabricante de máquinas para retífica de motores que até hoje funciona em Rio Bonito.",
+            "type": "text"
+        }
+    ]
+}
+{
+    "title": "FCA se posiciona em relação às acusações de fraude de emissões",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fca-se-posiciona-em-relacao-acusacoes-de-fraude-de-emissoes.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/Nqtkr1SqupAuikRQ6RSIqXuMnIE=/620x413/e.glbimg.com/og/ed/f/original/2016/08/02/grand_cherokee.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O governo dos EUA anunciou uma ação contra a FCA (Fiat Chrysler Automobiles) , acusada de usar ilegalmente um software nos motores a diesel para burlar teste de emissões de poluentes em 104 mil veículos vendidos desde 2014 . Agora, a empresa se posicionou oficialmente em relação ao caso, que prevê multa de até US$ 4,6 bilhões (cerca de R$ 15 bi) .",
+            "type": "text"
+        },
+        {
+            "content": "“A FCA US está trabalhando com a Agência de Proteção Ambiental dos EUA (EPA) e o California Air Resources Board (CARB) durante muitos meses, inclusive testando veículos extensivamente para aclarar as queixas relacionadas à tecnologia de controle de emissões da companhia de Jeep Grand Cherokee e Ram 1500 a diesel feitos com ano-modelo 2014-2016”.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/BNnlpMAVWLCQbNLYb4Cb-tU2Zc4=/620x413/e.glbimg.com/og/ed/f/original/2015/11/24/ram-1500.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Em nota, a empresa se diz decepcionada com a divisão ambiental e de recursos naturais do departamento de justiça estadunidense e garante que se defenderá vigorosamente, “principalmente contra qualquer queixa que acuse a companhia de qualquer ato deliberado para instalar equipamentos ilegais para burlar os testes de emissões dos EUA” .",
+            "type": "text"
+        },
+        {
+            "content": "Há uma semana, a filial norte-americana da FCA anunciou novas calibrações do software de controle de emissões que atendam às exigências da EPA e da CARB e que já estão empregadas nas versões 2017 dos veículos denunciados. A empresa “ espera que a instalação dos softwares atualizados melhore o resultado nos testes em relação aos modelos 2014-2016 sem afetar o desempenho ou a eficiência de consumo de combustível ”.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2015/11/ibama-multa-volkswagen-em-r-50-milhoes-por-fraude-no-motor-da-amarok.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2016/01/chrysler-confirma-ram-1500-para-o-brasil.html"
+            ],
+            "type": "links"
+        }
+    ]
+}
+{
+    "title": "Fiat Argo tem cadastro para test drive e primeira promoção",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-tem-cadastro-para-test-drive-e-primeira-promocao.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/iGC_fj_JJ0vWDh4-0y1agnIH2RU=/e.glbimg.com/og/ed/f/original/2017/05/24/fiat-argo-site.jpg",
+            "type": "image"
+        },
+        {
+            "content": "À espera pelo lançamento do Fiat Argo , marcada para o fim deste mês, o fabricante já permite que interessados se cadastrem para fazer um test drive no modelo. Além disso, os primeiros 500 compradores do hatch terão direito a um plano especial de manutenção, no qual as duas primeiras revisões serão grátis.",
+            "type": "text"
+        },
+        {
+            "content": "O Argo chegará nas próximas semanas para disputar mercado com Chevrolet Onix e Hyundai HB20 , além de substituir o Fiat Punto. As principais informações sobre o modelo ainda são mantidas em sigilo pela marca, mas já foram reveladas por concessionários que tiveram contato com o carro, flagras e por catálogos oficiais da empresa .",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-ja-foi-apresentado-aos-lojistas-saiba-todas-informacoes.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-catalogo-confirma-versoes-motores-e-opcionais-do-novo-argo.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-o-que-primeiras-imagens-revelam.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "Curiosos pelo carro pode indicar o interesse no site oficial . Basta informar nome e e-mail para escolher uma concessionária da Fiat e fazer test drive quando o carro estiver disponível. Para as revisões grátis, será preciso comprar uma das primeiras 500 unidades do Argo (provavelmente, sem ter tido muito contato) e cadastrar a nota fiscal na página do modelo - apenas como pessoa física, não jurídica . Vale lembrar que o benefício será cancelado caso o dono do carro não faça a revisão no prazo programado.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/Nj0NcclfsyZRhqXDpMmCGoTAzg4=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/untitled-1.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A Fiat ainda tenta fazer mistério sobre o Argo , porém lojistas, flagras e os catálogos oficiais revelam quase tudo do hatch. Já sabemos, por exemplo, que o Argo terá motores 1.0, 1.3 e 1.8 flex, câmbios manual e automatizado de cinco velocidades , além de um automático de seis marchas. Além de querer rivalizar com Chevrolet Onix e Hyundai HB20 , o Argo será o primeiro modelo a contar com uma nova central multimídia com tela de 7 polegadas e sensível ao toque . Ela, porém, não será item de série de todas as versões .",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-conheca-detalhes-do-interior-do-sucessor-do-punto.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/flagra-confirma-que-fiat-argo-tera-motor-18.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/04/argo-o-que-nossos-leitores-acharam-do-nome-do-novo-hatch-da-fiat.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/04/fiat-explica-por-que-escolheu-o-nome-argo-para-seu-novo-hatch.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "http://s2.glbimg.com/HkwzrMEqkiYQ_0EiknVNrb54tbk=/e.glbimg.com/og/ed/f/original/2017/05/24/untitled-2.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "Vazam detalhes técnicos do Tesla Model 3, que chegará ao Brasil",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/vazam-detalhes-tecnicos-do-tesla-model-3-que-chegara-ao-brasil.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/WpeWuGDUHh4MF661h5xBurDVfFg=/620x413/e.glbimg.com/og/ed/f/original/2016/04/07/tesla-model_3_2018_1600x1200_wallpaper_03.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O Tesla Model 3 já tem o passaporte carimbado para o Brasil e deverá chegar às lojas dos EUA ainda neste ano – é o que diz Elon Musk, CEO da empresa –, porém, para acabar (ou atiçar) a curiosidade dos fãs, vazaram alguns detalhes técnicos da novidade . Na imagem divulgada pelo site norte-americano InsideEVs , o sedã é comparado ao irmão Model S.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/TvDXU6CQxB2HZYYPS8zbTDB8X9g=/e.glbimg.com/og/ed/f/original/2017/05/25/1_K6jeYnp.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Caso as informações se confirmem, o “pequeno Tesla” terá 4,69 metros de comprimento (cerca de 7 cm maior que o Toyota Corolla brasileiro), chegará aos 97 km/h em ótimos 5,6 segundos e 396 litros de capacidade de carga quando somados os dois bagageiros – além do compartimento traseiro, também há outro espaço localizado sob o capô.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/sFiZvkcAdG4mxv3Fe1zJWbI_xh8=/e.glbimg.com/og/ed/f/original/2017/05/25/2_gA30BsY.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Chama a atenção a autonomia do Model 3, que, de acordo com o material vazado, será capaz de percorrer pelo menos 346 km . Só que, ao contrário do que acontece nos carros atuais (e mais caros), os proprietários da opção de entrada terão que pagar pelo uso das estações recarga rápida da marca. Aliás, a previsão de entrega do novato é de um ano .",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/tesla-revela-primeira-imagem-de-futuro-caminhao-eletrico.html",
+                "http://revistaautoesporte.globo.com/revista/noticia/2017/03/como-funciona-um-carro-autonomo.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "http://s2.glbimg.com/BPfdgOhr-96VZmAoUXMFpe1t8IE=/e.glbimg.com/og/ed/f/original/2017/05/25/3_bfwD0aM.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "Fotos do novo BMW Série 8 são divulgadas",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fotos-do-novo-bmw-serie-8-sao-divulgadas.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/kXR1I2apsNIo_MJ-LEEZMTw8FlQ=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/serie_8.jpg",
+            "type": "image"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-aumenta-precos-da-serie-2-e-linha-de-suvs.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-m5-ganha-nova-geracao-com-tracao-integral-xdrive.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-serie-5-conquista-nota-maxima-de-seguranca-nos-eua.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "http://s2.glbimg.com/Hd4iooOHRTWbEOUhOxFy9iGo25g=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/serie_8_2.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "BMW M5 2018 tem novos detalhes vazados",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-m5-2018-tem-novos-detalhes-vazados.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/rLIA5dhwADeLOOAktf74cT2NEtA=/620x413/e.glbimg.com/og/ed/f/original/2017/05/22/1_yY0xAWI.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A BMW organizou um evento na última terça-feira (23) em um armazém na Bélgica, onde apresentou a nova geração do M5 a clientes da marca. O modelo ficou escondido em uma sala e os convidados eram obrigados a entregar seu celulares para entrar, evitando que as pessoas tirassem fotos. No entanto, um dos visitantes conseguiu espiar embaixo do capô e memorizar o número do chassi do carro.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/PVW8DsrlstJYgQHp42b229XfUkE=/620x413/e.glbimg.com/og/ed/f/original/2017/05/22/3_kTqhDOE.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O convidado usou um decodificador da BMW descobrindo novas informações e publicou tudo no fórum Bimmer Post . O M5 é equipado com motor V8 4.4 biturbo com 600 cv de potência e 71.3 kgfm de torque. O sedâ possui transmissão automática de oito velocidades e vai de 0 a 100 km/h em menos de 3,5 segundos.",
+            "type": "text"
+        },
+        {
+            "content": "O M5 apresentado no evento contou com pintura azul metálico e bancos em couro Merino. Outros detalhes são as rodas de liga leve de 20 polegadas, pneus Michelin Pilot Sport 4S, freios de cerâmica de carbono amarelo, além de novos faróis de LED adaptativos .",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/_CZiPa6i_FOf-Q6CUJmrm1mah_s=/620x413/e.glbimg.com/og/ed/f/original/2017/05/22/4.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Na dianteira, o M5 recebeu uma grelha preta e detalhes laterais similares ao M3 e M4 . O convidado ainda observou que o sedã tinha uma tampa de combustível retangular e, na parte de trás, o difusor foi dividido em quatro pontas de escape (dois em cada lado) com um acabamento cromado.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/bmw-m5-ganha-nova-geracao-com-tracao-integral-xdrive.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/03/bmw-m5-e-flagrado-circulando-pelas-ruas-ouca-o-barulho-do-motor.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "No interior, o painel de instrumentos é totalmente digital com um velocímetro marcando até 330 km/h. O sistema de entretenimento foi atualizado e o modelo ganhou logotipos M5 iluminados nas soleiras laterais e no topo dos assentos.",
+            "type": "text"
+        }
+    ]
+}
+{
+    "title": "Lamborghini deve lançar quarto modelo a partir de 2023",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/lamborghini-deve-lancar-quarto-modelo-partir-de-2023.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/2JHS75tCinwVsCT0LGJju5LkVck=/620x413/e.glbimg.com/og/ed/f/original/2015/05/28/lamborghini_urus_8.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Com o lançamento do SUV Urus, previsto para o ano que vem, a família da Lamborghini terá três modelos. Mas a marca parece já traçar planos para aumentar esse número. Em entrevista ao site australiano CarAdvice , o CEO Stefano Domenicali, disse que o objetivo é começar a pensar em um quarto modelo a partir de 2023, quando a empresa estiver mais estável.",
+            "type": "text"
+        },
+        {
+            "content": "A expectativa é alcançar a marca de 7 mil veículos vendidos por ano em 2018 , já contando com o sucesso do Urus. \"Se você se lembra de como a Lamborghini era dois anos atrás - estamos falando de 1.000 carros [vendidos por ano] - ninguém esperava que a nossa marca ou a nossa empresa poderia crescer rapidamente, para ver Lamborghini projetando mais de 7.000 carros\", disse Domenicali.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/3Cz-u_0S9mUIkv3oJHqRvp2AM7g=/620x413/e.glbimg.com/og/ed/f/original/2017/03/15/466434_1.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Com um novo modelo, o volume de vendas pode chegar até 10 mil unidades por ano. Mas o quarto Lamborghini terá que esperar até que a empresa alcance um equilíbrio. \"Quando essa onda terminar entre 2022 e 2023 estaremos estáveis, então nossa visão é estarmos pensando em qual será o próximo passo para o mundo da Lamborghini\", afirma o CEO.",
+            "type": "text"
+        },
+        {
+            "content": "Em relação ao quarto modelo, Domenicali diz que ainda é necessário analisar as tendências e mudanças do mercado para tomar uma decisão. No entanto, a história da marca definitivamente será uma inspiração. \"Modelos grã-turismo, carros de quatro lugares, a herança nos dá algumas ideias, mas cabe a nós decidir uma direção. Em 2025 um super SUV irá ultrapassar um modelo de quatro lugares ou um GT em vendas? Ainda não sabemos. Mas vamos nos preparar para todos os cenários.\", conta Stefano.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/NgdzZxfd4X40vnqHL_gucFI3cv4=/620x413/e.glbimg.com/og/ed/f/original/2016/12/19/lamborghini-aventador-s-dianteira2.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "Toyota, Nissan e Honda se unem por carros a hidrogênio",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/toyota-nissan-e-honda-se-unem-por-carros-hidrogenio.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/iUbADRQoOY7NU1zmqQFmdDRHlbE=/620x413/e.glbimg.com/og/ed/f/original/2017/05/25/img_3748.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Onze empresas da indústria automotiva - incluindo Toyota , Nissan e Honda - e de energia estão se juntando para construir uma infraestrutura de hidrogênio no Japão. As companhias assinaram um acordo de colaboração para a construção em larga escala de estações de hidrogênio para veículos movidos a célula de combustível. A Toyota já havia anunciado a formação de um Conselho de Hidrogênio com outros fabricantes no início do ano, iniciativa que inclui a Daimler, BMW,  Hyundai e a própria Honda .",
+            "type": "text"
+        },
+        {
+            "content": "Com o apoio do governo japonês, a meta é construir 160 estações de hidrogênio e produzir 40.000 carros movidos a célula de combustível até 2020. O número não soa como desafio para as gigantes japonesas, mas a Toyota conseguiu vender apenas 1.034 unidades do modelo Mirai nos Estados Unidos durante 2016. Autoesporte dirigiu o sedã futurista no Japão e a tecnologia nos impressionou ( confira as impressões ).",
+            "type": "text"
+        },
+        {
+            "content": "O acordo pretende estabelecer uma empresa para supervisionar a instalação das estações de hidrogênio, além de desenvolver maneiras para reduzir os custos. Entre as outras companhias estão: JXTG Nippon Oil & Energy; Idemitsu Kosan; Iwatani Corporation; Tokyo Gas; Toho Gas; Air Liquide Japan; Toyota Tsusho Corporation e o Development Bank of Japan.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Analises/noticia/2015/12/uma-volta-ao-volante-do-toyota-mirai.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/nissan-testa-celula-de-combustivel-de-bioetanol-no-brasil.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/01/gm-e-honda-se-unem-para-produzir-sistema-de-celula-de-combustivel.html"
+            ],
+            "type": "links"
+        }
+    ]
+}
+{
+    "title": "Na pista com o Audi R8 V10 plus",
+    "link": "http://revistaautoesporte.globo.com/testes/noticia/2017/05/na-pista-com-o-audi-r8-v10-plus.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/LwRX6CaUaRnsgDLkKyF5W19wkqU=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_2602.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O despertador tocou, pontual e desnecessariamente, às 5h57. A cabeça já estava funcionando há bastante tempo. A ansiedade de ir para a pista estava incontrolável: era o dia do Audi Experience, evento em que clientes da marca alemã podem dirigir todos os modelos da linha à venda no Brasil . Para os jornalistas, foram oferecidos apenas três carros . Eram os “esporte finos” RS6 e RS7 Sportback (ambos na nova versão Performance), e o superesportivo R8",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/a2zTUaPfU8RwFo_z0feLDy-1dWY=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_1974.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A pista é a da Fazenda Capuava, que já foi parque de diversões particular do finado Alcides Diniz (dos supermercados Pão de Açúcar) e atualmente é alugada para eventos. Apresentados no Salão de São Paulo do ano passado, os três carros têm novidades relevantes — mas hoje vamos nos ater ao R8 , deixando os outros para as próximas edições.",
+            "type": "text"
+        },
+        {
+            "content": "A segunda geração do modelo, vulgarmente conhecido como “carro do Homem de Ferro”, sai unicamente com o V10 Plus de 5,2 litros . O V8 saiu de cena e, em breve, pintará um V6 biturbo para as versões de entrada , digamos assim...",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/Rd6NIPsT9Rtmpb9BH5fOZZrk7xo=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_2199.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Em tempos de downsizing, um motorzão V10 aspirado já pode ser considerado uma relíquia. Mas felizmente ele ainda existe! São 610 cv , literalmente montados nas suas costas. Os 55,1 kgfm de torque são entregues diretamente nas quatro rodas. Imagine ser o homem bala do circo. Foi assim que me senti ao disparar o canhão.",
+            "type": "text"
+        },
+        {
+            "content": "A plataforma é , em essência, a mesma da geração anterior, mas foi extensamente modificada com a aplicação de fibra de carbono no túnel central, na parede de fogo e nas colunas das portas. Rebatizada de MSS, essa base também é usada pelo Lamborghini Huracán e deixou o novo R8 um pouco mais curto, baixo e leve que o antecessor.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/SsIvS1sIgRIdPsdcYSXGpKwiL2I=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_0463.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O interior é aconchegante, apesar do espaço não ser muito farto . Tudo ali está focado no motorista. Nota-se até alguma semelhança com a cabine do TT , como o quadro de instrumentos \"glass cockpit\", mas tudo dentro das devidas proporções. O acabamento é minimalista e usa materiais nobres como alcântara, couro e muita fibra de carbono . Apesar da pegada de pista, o esportivo não deve em conforto aos sedãs de luxo.",
+            "type": "text"
+        },
+        {
+            "content": "Todo revestido com couro perfurado, o volante traz os habituais comandos de som, telefone e multimídia. E há outras quatro teclas. A primeira e mais chamativa é o botãozinho vermelho que acorda o V10. Logo abaixo, vem uma que infernizará os vizinhos: com duas ponteiras de escapamento como ícone, é a tecla que libera o escape.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/kl1xSMNQ1I7PCeKtYEYl9gY8coM=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_2626.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Em marcha lenta, o motor desliga cinco de seus dez cilindros . Ronrona baixinho, grave ainda que contido, prometendo emoção. Câmbio em drive e o R8 começa a se deslocar docilmente. Ativo o modo mais extremo, chamado Performance, e entro na pista. É dessa forma que o lado competidor do R8 se mostra: 50% dos componentes do carro de rua são compartilhados com a versão que corre nas provas de endurance da Le Mans Series. Que sorte ser o primeiro da bateria a entrar no circuito: pista livre pela frente! Começo com precaução de iniciante. As curvas acentuadas mostram, de cara, que o R8 é incrivelmente afiado. Sinto confiança para entrar nas curvas cada vez mais rapidamente.",
+            "type": "text"
+        },
+        {
+            "content": "Como em um carro de corrida, a direção é rápida, direta e firme . Com movimentos curtos dos braços, é impressionante a facilidade de entrar nas curvas . Depois do miolo travado, chega (enfim!) a primeira reta.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/f8gRtzZiF94B1Z9xemiYMGFZ5cY=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_2206.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Segunda, terceira, quarta e quinta marchas entram numa sucessão alucinante, mesmo sem tocar nas aletas de câmbio atrás do volante. Segundo a Audi, a caixa em drive, e no modo Performance, faz as trocas “para cima” mais rapidamente do que qualquer motorista humano. Por isso, a nova geração do R8 só sai com câmbio automatizado de sete velocidades e duas embreagens . Manual puro, nunca mais.",
+            "type": "text"
+        },
+        {
+            "content": "Chego ao fim da reta-curva beirando 200 km/h! Pé no freio e o carro estanca com o mesmo vigor que havia acelerado. Entro mais forte do que antes na curva um e acelero na saída. A brutalidade impressiona.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/Lu0pBIodhKL9mMXF_54YAYtdc00=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_0378.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Tamanha é a rapidez que perco o ponto de freada. Aí cometo o erro de achar que sou piloto profissional em vez de um jovem repórter: para conseguir contornar a curva, tento abrir a trajetória. Nisso, pego um pedaço de grama molhada. O desfecho? Perco a traseira do carro e dou uma volta de 180°. Abusei tentando encontrar o limite do carro e acabei descobrindo o meu...",
+            "type": "text"
+        },
+        {
+            "content": "Na pista novamente, aproveito para ir mais manso, tentando imaginar esse carro em um uso normal de rua. Pegando uma zebra aqui e ali, percebo o quão dura é a suspensão.",
+            "type": "text"
+        },
+        {
+            "content": "Já as acelerações e retomadas são instantâneas. Ao entrar mais uma vez na reta, tenho a impressão de que a potência do V10 é infinita. O motor empurra o carro com vontade a qualquer velocidade. E o que dizer do urro grosso em aceleração plena? O preço dessa brincadeira? R$ 1,1 milhão , que podem ser acrescidos de R$ 16 mil caso o comprador queira bancos no estilo concha, R$ 7 mil, para as costuras dos bancos contrastando com a cor da carroceria e R$ 13 mil para a pintura em tom azul arara, como o Fusca ofereceu na década de 1970.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/HE6o5EbCRm6gvSMVuIwmZul8_YI=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_2610.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Preço : R$ 1.171.000 Origem : Alemanha Motor : a gasolina, V10, 40 v, comando duplo, injeção direta, aspirado, 5.204 cm³; potência de 610 cv a 8.250 rpm e torque de 57,1 kgfm a 6.500 rpm Transmissão: câmbio automatizado de sete marchas e dupla embreagem.Tração integral Suspensões: independente com braços sobrepostos nos dois eixos Pneus : 245/30 R20 na dianteira e 305/30 R20 na traseira Comprimento: 4,42 metros Largura: 1,94 metros Altura: 1,24 metros Entre-eixo: 2,65 metros",
+            "type": "text"
+        },
+        {
+            "content": "Peso: 1.555 kg",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/I8HgH0CJaCTl3xzlRzM4JKkAVuY=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/bru_2525.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "Ford de aço inoxidável é doado a museu junto a cheque de R$ 3 milhões",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/ford-de-aco-inoxidavel-e-doado-museu-junto-cheque-de-r-3-milhoes.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/DMQTVL5b0-3fzF2mr_XLPUYTIBs=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/fordv8frente.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Muito antes da DeLorean ter feito um carro de aço inoxidável, a Ford construiu em 1936 seis modelos V8 feitos com o material. Somente um dos carros estava nas mãos de um colecionador particular, mas isso mudou nesta semana, quando o colecionador americano Joe Floyd decidiu doar o seu Model 68 Deluxe Tudor Touring Sedan e outros clássicos para o Museu Early Ford-V8 .",
+            "type": "text"
+        },
+        {
+            "content": "A doação foi mais do que generosa. Além do carro exclusivo, Floyd doou outros 16 Ford daquele ano, lote acompanhado de um cheque de US$ 1 milhão (cerca de R$ 3,2 milhões) para ajudar a cuidar da coleção. Segundo conta o pessoal da Hemmings , Floyd já era tesoureiro do museu localizado em Auburn, Indiana.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/04/ford-realiza-testes-para-usar-bambu-no-interior-de-seus-carros.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2016/07/primeiro-shelby-cobra-pode-custar-mais-de-r-20-milhoes.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2016/12/tucker-encontrado-em-celeiro-pode-valer-mais-de-r-10-milhoes.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "Foram apenas seis carros feitos em aço inoxidável pela Allegheny Steel para promover o uso do material. Não foram os únicos Ford fabricados com o reluzente metal, há também exemplares do Thunderbird 1960 e Lincoln Continental 1966 feitos em inox (a foto abaixo mostra os três carros reunidos). Quatro dos Ford 1936 ainda existem, um no museu Crawford de aviação e automóveis, onde é exibido junto aos primos inoxidáveis Thunderbird e Continental, e dois ainda pertencem ao pessoal da empresa metalúrgica, posteriormente rebatizada como Allegheny Ludlum e atualmente chamada de Allegheny Technologies Incorporated.",
+            "type": "text"
+        },
+        {
+            "content": "Para você ter uma ideia da raridade, em 1936 a Ford produziu 125 mil Deluxe Tudor Tourer Sedans de um total de 536.615 Model 68. Equipados com motor V8 3.6 de 86 cv e 21,1 kgfm, os Fordinho V-8 eram baratos e potentes para a época , até mesmo Clyde Barrow teria elogiado o desempenho do carro em uma carta escrita para Henry Ford. A carta está no Museu Henry Ford, mas a autenticidade é questionada por alguns - é apenas certeza que Bonnie e Clyde morreram em um Ford V-8.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/gRwDxBb3RgUbB3U6iM472WQr-WU=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/fords.jpg",
+            "type": "image"
+        },
+        {
+            "content": "O que é inquestionável é a resistência do aço inoxidável. Cada um dos Ford foram dados a executivos de vendas regionais de alto escalão da Allegheny, distribuídos por Nova Iorque, Chicago, Filadélfia, Cleveland, Detroit e Saint Louis . Após quase dez anos de labuta, os carros rodaram mais de 300 mil quilômetros, uma jornada que debilitou motor e transmissão, mas deixou as carrocerias intactas.Ter um carro à prova de ferrugem era quase um milagre tecnológic.",
+            "type": "text"
+        },
+        {
+            "content": "O carro doado foi restaurado após ter sido comprado em 2009 pelo falecido colecionador Leo Gephard, que entregou o Ford V-8 aos cuidados do restaurador Lon Kruger. O processo de restauro foi demorado e incluiu um polimento de 1.000 horas. É o lado chato de se ter um carro de aço inox, o lado bom é que você pode deixa-lo tinindo apenas com uma esponja de aço. Após a morte de Gephard, Kruger comprou o Model 68.",
+            "type": "text"
+        },
+        {
+            "content": "Foi apenas em 2014 que o dono atual (e doador do carro) adquiriu o exemplar quase único diretamente de Kruger. A coleção de Joe Floyd já incluiu outros Ford V-8 raros ou com carrocerias exclusivas. A doação foi feita em novembro passado e o museu tornou pública a identidade do benfeitor com o objetivo de atrair mais doadores. Os 17 carros de Floyd serão exibidos em uma nova ala do museu. O espaço terá mais de 900 metros quadrados e a ambientação imitará uma concessionária Ford do período. Nada mais apropriado.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/8uZ5M16aCWHh69W09WV1T244VNA=/e.glbimg.com/og/ed/f/original/2017/05/24/perfilford.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Basicamente por causa do custo. A própria Ford havia construído anteriormente alguns modelos A em aço inox, mas o material elevou o custo das carrocerias a 2 mil dólares cada, um valor que dava para levar quatro Ford A para casa. O prejuizo da experiência foi ainda maior, pois as prensas convencionais criadas para prensar aço carbono foram arruinadas pela dureza do inox. Reequipar as fábricas com novo ferramental estava fora de questão em uma época em que as vendas estavam em baixa. Olha que Henry Ford curtia a ideia de ter carros feitos em materiais alternativos, até mesmo uma resina feita de algodão, trigo, soja e milho.",
+            "type": "text"
+        }
+    ]
+}
+{
+    "title": "Tudo sobre o evento Qual Comprar 2017",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/tudo-sobre-o-evento-qual-comprar-2017.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/ksKscH3dkZEQnyu75XLEc3AccR4=/e.glbimg.com/og/ed/f/original/2016/10/31/qualcomprar1.png",
+            "type": "image"
+        },
+        {
+            "content": "Uma variedade de marcas e modelos para o cliente pesquisar à vontade e tirar todas as dúvidas sobre o automóvel que vai levar para a garagem de casa . Este é o cenário que se tornará realidade daqui a dois dias quando o Qual Comprar 2017 tiver início. A maior ação de vendas de veículos zero-quilômetro do Rio reunirá oito fabricantes e mais de 90 modelos em um ambiente de conveniência para a família. Haverá ainda palestras com especialistas em automóvel.",
+            "type": "text"
+        },
+        {
+            "content": "A segunda edição do evento acontecerá na sexta-feira e no sábado (26 e 27 de maio) , das 10h às 22h , no shopping Uptown (Avenida Ayrton Senna 5.500). É um enorme espaço com estacionamento, pertinho da Barra, de Jacarepaguá e do acesso à Linha Amarela.",
+            "type": "text"
+        },
+        {
+            "content": "O evento é uma realização de Autoesporte, O Globo e Extra, com patrocínio de Volkswagen, Fiat, Jeep, Nissan, Renault, Caoa Hyundai, GM e Ford.",
+            "type": "text"
+        },
+        {
+            "content": "O Qual Comprar nasceu no ano passado, e já faz parte do calendário do varejo do mercado automotivo carioca. A primeira edição, em outubro de 2016, teve mais de 300 carros vendidos em apenas dois dias, e aumentou em 63% o fluxo de visitantes do shopping na Barra. Por isso, as oito marcas participantes vão expor toda a linha de veículos em condições especiais de mercado.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/fTPyd0rcqjw-09uxcB-XhTp9QWY=/e.glbimg.com/og/ed/f/original/2016/10/31/qualcomprar3.png",
+            "type": "image"
+        },
+        {
+            "content": "\"Pelo segundo ano consecutivo, a Ford , juntamente com a sua rede de distribuidores do Rio, participa do Qual Comprar. Nossas expectativas são as melhores, principalmente devido ao grande sucesso de vendas que tivemos no ano anterior\", ressalta Mário Callegaro, gerente regional da Ford.",
+            "type": "text"
+        },
+        {
+            "content": "A marca destacou oito revendas da rede e preparou as equipe s. Além disso, boa parte da linha terá taxa zero para financiamento , como os modelos Ka , Ka+ , EcoSport e Focus .",
+            "type": "text"
+        },
+        {
+            "content": "\"Teremos toda a nossa linha de produtos com excelentes preços e condições comerciais\", diz Callegaro.",
+            "type": "text"
+        },
+        {
+            "content": "A Fiat e a Chrysler também preparam ofertas e ações para a gama de produtos durante o Qual Comprar. E dará atenção especial para alguns modelos.",
+            "type": "text"
+        },
+        {
+            "content": "\"Os veículos de destaque serão o Mobi , que acaba de ganhar o câmbio automatizado GSR-Comfort, e o Uno , que já está na linha 2018 com a novidade do sistema de monitoramento da pressão dos pneus \", adianta Clovis Costa, do marketing de vendas da Fiat Chrysler Automóveis (FCA) Regional Rio de Janeiro.",
+            "type": "text"
+        },
+        {
+            "content": "\"A Jeep será representada pelos dois modelos que fi zeram a marca se tornar líder no segmento de utilitários em menos de dois anos , o Renegade e o Compass\", conclui.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/w9LvFEvCFRzelZFjcFF48jqNFWI=/e.glbimg.com/og/ed/f/original/2016/10/24/qualcomprar2.jpg",
+            "type": "image"
+        },
+        {
+            "content": "No embalo dos ótimos resultados do Qual Comprar do ano passado, a Nissan também mostrará a linha completa . Com três concessionários, a fabricante destaca os novos equipamentos da família de compactos, além das novidades em sedãs, utilitários esportivos e picapes.",
+            "type": "text"
+        },
+        {
+            "content": "\"Na última edição do evento tivemos um volume de negócios bem superior ao de um fim de semana comum das concessionárias. Registramos quase o dobro de vendas em comparação a um período semelhante \", conta José Luiz Vendramini, diretor comercial da Nissan do Brasil.",
+            "type": "text"
+        },
+        {
+            "content": "A ideia para esse ano é melhorar ainda mais o bom desempenho, e para isto a marca vai destacar os recém-lançados Kicks e Frontier . E também mostrará toda a linha equipada com o câmbio continuamente variável CVT, como March , Versa e Sentra .",
+            "type": "text"
+        },
+        {
+            "content": "A Hyundai Caoa é outra que quer não apenas repetir a boa performance do ano passado, mas superá-la. Para isso, a empresa aposta em sua linha de importados e nacionais , e também na elogiada estrutura do evento, que vai além de uma ação comercial.",
+            "type": "text"
+        },
+        {
+            "content": "No Uptown, haverá espaço de recreação para as crianças , com monitores e brinquedos, e um grande pólo gastronômico no Mercado de Produtores, com bares, restaurantes e venda de alimentos em geral.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/s_WMaz_mBea1T_7Bvb1xDt76vqA=/620x413/e.glbimg.com/og/ed/f/original/2016/10/26/qualcomprar.jpg",
+            "type": "image"
+        },
+        {
+            "content": "\"A experiência em 2016 foi muito positiva, com estrutura e organização impecáveis. Estamos com expectativas muito positivas, o mercado carioca tem muita relevância para a rede Hyundai Caoa\", enaltece Edemar Nunes, diretor executivo comercial da marca.",
+            "type": "text"
+        },
+        {
+            "content": "A marca levará toda a sua gama de veículos ao Uptown , incluindo os utilitários ix35 , Tucson e New Tucson , além da família HB20 e do recém-lançado utilitário Creta . E, segundo Edemar Nunes, diversos executivos estarão presentes para garantir as melhores condições para os clientes.",
+            "type": "text"
+        },
+        {
+            "content": "A infraestrutura do Qual Comprar também é destacada pela Renault . A fabricante vai atacar de taxa zero na linha de compactos e médio-compactos, como Sandero , Logan , Stepway e Oroch, e também no recém-lançado utilitário Captur . Além disso, quer aproveitar a pista de test drive do evento para permitir que os clientes experimentem os novos motores três cilindros.",
+            "type": "text"
+        },
+        {
+            "content": "\"Nossas equipes de vendas estão bem orientadas para mostrar as propriedades dos novos motores, principalmente quanto a consumo e desempenho\", explica Gustavo Azambuja, gerente regional da Renault.",
+            "type": "text"
+        },
+        {
+            "content": [
+                "https://www.facebook.com/qualcomprar/"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "Segundo Azambuja, todas as vendas, obrigatoriamente, devem ter a realização do test drive. Desta forma, o consumidor tem a oportunidade de avaliar o produto em ação, vendo seu desempenho e economia ao vivo.",
+            "type": "text"
+        },
+        {
+            "content": "Na Volkswagen , a linha toda será trabalhada, mas a questão da eficiência será ressaltada principalmente no subcompacto Up!. O modelo acaba de ser renovado e estará em destaque no estande da marca.",
+            "type": "text"
+        },
+        {
+            "content": "\"Vamos aproveitar todo o aparato do evento e a boa localização do Qual Comprar para a divulgação do novo Up!, que tem grandes atributos de eficiência e dirigibilidade. Teremos um test drive especial para o modelo\" garante Marco Tondeli, gerente Regional de Vendas e Marketing da VW.",
+            "type": "text"
+        },
+        {
+            "content": "Já a General Motors aposta na tecnologia dos seus produtos. Além de expor a família completa de veículos, os vendedores vão mostrar com detalhes os equipamentos presentes nos modelos.",
+            "type": "text"
+        },
+        {
+            "content": "\"Teremos toda a linha Chevrolet com condições especiais para o evento e nosso cliente poderá também experimentar a inovadora tecnologia OnStar, além de poder testar os novos Cruze , Tracker e a mais nova versão da S10 , a Flex automática\", afirma Rodrigo Perencin, gerente Regional de Marketing da GM no Rio de Janeiro.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/ZAW8D4jmlGr0E9TPCX8r5qhpnzs=/e.glbimg.com/og/ed/f/original/2017/05/18/qual-comprar-patrocinio.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "Renault Duster e Oroch terão câmbio CVT",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/renault-duster-e-oroch-terao-cambio-cvt.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/hKfhXZGO4AgbcGBPVxVCYVE5KCA=/620x413/top/e.glbimg.com/og/ed/f/original/2017/02/22/040_ae622-01.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A Renault já havia anunciado que o câmbio CVT seria oferecido para o Captur 1.6 SCe, contudo, o conjunto será aplicado também no Duster por volta de julho. A picape Oroch também terá a opção em um segundo momento, porém, ambos manterão a caixa de quatro velocidades no motor 2.0. O CVT equipará outros Renault em 2018, quando chegarão o Sandero e Logan 1.6. A novidade mecânica será uma das atrações do facelift dos compactos, esperado para o primeiro semestre do ano que vem, depois do início da fabricação do novo Kangoo na Argentina .",
+            "type": "text"
+        },
+        {
+            "content": "O Duster passará a ser um dos utilitários mais baratos do mercado com transmissão automática , apostamos em preços na faixa dos R$ 75 mil na versão Dynamique 1.6. Já a picape Oroch deve ser vendida por menos de R$ 80 mil, o que pode representar uma economia de quase R$ 10 mil em relação ao Fiat Toro Freedom 1.8 automático (R$ 87.490).",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/03/sandero-e-logan-serao-reestilizados-em-2018.html",
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/03/renault-dokker-sera-feito-com-o-nome-kangoo-na-argentina.html",
+                "http://revistaautoesporte.globo.com/Analises/noticia/2017/02/teste-renault-captur-intense-20.html"
+            ],
+            "type": "links"
+        },
+        {
+            "content": "Ambos prometem ter um desempenho não tão distante do 2.0 automático de quatro velocidades graças ao motor 1.6 SCe. Derivado do propulsor da Nissan que equipa o crossover Kicks , o quatro cilindros gera 120/118 cv (etanol/gasolina) de potência a 5.500 rpm e 16,2 kgfm de torque a 4.000 rpm com os dois combustíveis.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/f2PWMU0H_bDSEH1oZ5sa6l-BIGo=/620x413/e.glbimg.com/og/ed/f/original/2016/09/29/sanderofrente.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Já o Sandero e Logan darão adeus em 2018 ao câmbio automatizado Easy-R de cinco marchas. A nova transmissão CVT deixará os Renault ainda mais parecidos mecanicamente com os primos Nissan March e Versa, que utilizam uma versão menos forte do propulsor (111 cv e 15,1 kgfm a 4.000 rpm). Quanto ao estilo, as mudanças estéticas terão algumas alterações em relação ao facelift aplicado nos modelos europeus da Dacia , conforme Autoesporte antecipou, nada que os distancie tanto.",
+            "type": "text"
+        },
+        {
+            "content": "Luzes diurnas de leds nos faróis darão um upgrade na aparência dos compactos, enquanto a traseira aposta em lanternas com elementos redesenhados em forma de blocos geométricos. Ao contrário do que acontece na Europa, onde Sandero e Logan são carros de acesso, aqui os compactos disputam uma fatia mais cara do segmento dos compactos.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/B1-em_HMewc-zoEB2dXgjvC8ASg=/620x413/e.glbimg.com/og/ed/f/original/2016/09/29/logan.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Por dentro, esperamos que o volante multifuncional do facelift europeu seja aplicado - o atual usa comandos satélites na coluna de direção. O painel também mudará estéticamente e adotará saídas de ar centrais arredondadas, como é no Duster e Oroch.",
+            "type": "text"
+        },
+        {
+            "content": "Embora sejam certeza para os Sandero e Logan CVT, torcemos para que os controles eletrônicos de estabilidade e de tração apareçam em mais versões da gama - o item faz parte apenas do Sandero RS e dos 1.6 equipados com o Easy-R.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/MToU9EEAAfNR4EmXertWMGWzpJ0=/620x413/e.glbimg.com/og/ed/f/original/2016/09/29/painelsandero.jpg",
+            "type": "image"
+        }
+    ]
+}
+{
+    "title": "Vídeo: Porsche feito de Lego passa por crash test",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/video-porsche-feito-de-lego-passa-por-crash-test.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/c1OF_L7DpPEs7j0Nt6X6cqnaQHE=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/1705_porscheschraeg_95528-sha-jg_web_resize_1280.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Uma réplica do Porsche 911 GT3 RS feita com peças de Lego foi colocada a prova em um teste de colisão pelo ADAC (Automóvel Clube da Alemanha). O modelo foi feito totalmente a partir de 2.700 blocos do brinquedo e chega a custar 300 euros - cerca de R$ 1.000 na cotação atual. A miniatura conta com direção funcional, transmissão de dupla embreagem e motor com pistões móveis.",
+            "type": "text"
+        },
+        {
+            "content": "O Porche de Lego chegou até a velocidade máxima de 46 km/h até colidir contra a barreira que seguia os padrões de testes de veículos reais. \"O resultado foi diferente do esperado. O chassi do carro não teve problemas com a alta velocidade, e houve pequenos danos no impacto. Foi basicamente a desmontagem dos componentes\", disse Johannes Heilmaier, chefe da unidade de testes de colisão da Adac.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/cBQbNHeDdWb2R-g4sC2-ENGimc8=/620x413/e.glbimg.com/og/ed/f/original/2017/05/24/1705_p1011516_resize_1280.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Confira o vídeo:",
+            "type": "text"
+        }
+    ]
+}
+{
+    "title": "Chevrolet Prisma 2018 chega com novos itens, mas mais caro",
+    "link": "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/chevrolet-prisma-2018-chega-com-novos-itens-mas-mais-caro.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/jt3kUC_cImD1d6HzmXN8ryq1Iw8=/620x413/e.glbimg.com/og/ed/f/original/2016/09/02/chevrolet-prisma-joy.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A nova linha do Chevrolet Prisma 2018 acaba de chegar às concessionárias com poucas mudanças e aumento de preços em todas as versões . Sem alterações no visual, a versão de entrada Joy 1.0 recebeu como item de série travas elétricas das portas e alarme antifurto , no entanto, aumentou R$ 1.300.",
+            "type": "text"
+        },
+        {
+            "content": "Já a versão intermediaria, LT e a versão mais completa, LTZ (ambas com motor 1.4), receberam nova opção de cor para carroceria. Chamada de Imperial Blue, o tom escuro de azul metálico custa R$ 1.400 . Ambas as versões ganharam apenas luz traseira de neblina.",
+            "type": "text"
+        },
+        {
+            "content": "Chevrolet Prisma Joy 1.0 – de R$ 44.490 para R$ 45.790 (+ R$ 1.300) Chevrolet Prisma LT 1.4 com câmbio manual – de R$ 54.890 para R$ 55.790 (+ R$ 900) Chevrolet Prisma LT 1.4 com câmbio automático – de R$ 60.190 para R$ 61.150 (+ R$ 690) Chevrolet Prisma LTZ 1.4 com câmbio manual – de R$ 59.990 para R$ 60.990 (+ R$ 1.000) Chevrolet Prisma LTZ 1.4 com câmbio automático – de R$ 65.990 para R$ 67.050 (+ R$ 1.060)",
+            "type": "text"
+        },
+        {
+            "content": [
+                "http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/chevrolet-equinox-roda-em-testes-no-brasil-antes-de-lancamento-no-salao-de-buenos-aires.html",
+                "http://revistaautoesporte.globo.com/recall/noticia/2017/05/chevrolet-onix-joy-e-convocado-em-recall-por-defeito-nos-pneus.html"
+            ],
+            "type": "links"
+        }
+    ]
+}
+{
+    "title": "OLD STOCK RACE - OPALÕES ACELERAM COM VONTADE NA CHUVA!",
+    "link": "http://revistaautoesporte.globo.com/Blogs/Conexao-Saloma/noticia/2017/05/old-stock-race-opaloes-aceleram-com-vontade-na-chuva.html",
+    "content": [
+        {
+            "content": "http://s2.glbimg.com/Q1A8_kSarNusfG4yO8Zfuk61qAU=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_cria_parabolica_em_interlagos_etapa_3.jpg",
+            "type": "image"
+        },
+        {
+            "content": "A Old Stock Race é uma categoria que vem resgatar o espírito das corridas de automóveis. Com um apelo retrô, bem do início da Stock Car se iniciou em 1979, a categoria funciona como um museu de acervo dinâmico.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/G39lpMvanBm6M7Ys7ZNVDd-iZKM=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_pista_etapa_3_bb.jpg",
+            "type": "image"
+        },
+        {
+            "content": "No final de semana da categoria acontecem duas provas, ambas no domingo e na última etapa não foram diferente, muita disputa,muita chuva e algumas surpresas ao final do dia. Na sexta, os preparativos para os treinos livres e de olho no acerto para tomada de tempo no sábado com aberturas de sol, mesmo sabendo da possibilidade de chuva no domingo.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/iQrM37_VRonzkliPHg40B9eaf6k=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_c.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/CGCgjSH-_bg6jF9nDI8g8zf_23g=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_m.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/z5iwL3rH87OKInjpcaacMCEiSSg=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_l.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/Xsip6r6PbitbKOcSL-2Q8WennhE=/e.glbimg.com/og/ed/f/original/2017/05/24/osr_3_17_b_bonfim-0001.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/F3lufyYkoEUzl7knYYSO3_cLLHA=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_d.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/_wJ062gscQkRPGbeU2G_JliAX2Y=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_i.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/noHbXil29-norlw7KY-01mVLbO0=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_a.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/mzB_8JaEjdOAVJxQBjVpU0HMfTc=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_f.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/5bx0pde_yPIbauOswG7qcc2uG5M=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_etapa_3_box_n.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/Am8EsFAUXC1WTQbRwT82ksEw-vo=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_j.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Pilotos e preparadores tiveram que lidar com um final de semana que se iniciou na sexta com treinos livres debaixo de chuva e muito óleo em vários trechos da pista, provocando entortadas no final do S do Senna, curva do Laranjinha e no miolo do traçado e também, experimentar a pista parcialmente seca e até com momentos de céu claro no sábado (20) no treino classificatório em flashes abaixo...",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/eTZS6efHqgSZIjJRUcFwnu49jzk=/e.glbimg.com/og/ed/f/original/2017/05/24/osr_3_17_b_bonfim-0035.jpg",
+            "type": "image"
+        },
+        {
+            "content": "RESULTADO DO TREINO DE CLASSIFICAÇÃO DA OLD STOCK NO SÁBADO: 1 - 113 Rodrigo Helal - 128.856 km/h",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/YpTVbR-ebMptELCJwpIz1XxrI7Q=/e.glbimg.com/og/ed/f/original/2017/05/24/osr_opala_113.jpg",
+            "type": "image"
+        },
+        {
+            "content": "2 - 54 Rafael Lopes - 128.664 km/h",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/dwdaraFi_F7m4bY-Cu8MU6Ad3l0=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_pista_etapa_3_v.jpg",
+            "type": "image"
+        },
+        {
+            "content": "3 - 38 Vinicius Pimentel (M)/ Rodrigo Leite - 128.638 km/h",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/JXJJ0jc_RwBot66mrOhQUlaRL2o=/e.glbimg.com/og/ed/f/original/2017/05/24/osr_opala_38.jpg",
+            "type": "image"
+        },
+        {
+            "content": "4 - 16  Alex Dimas/ Dimas II (M) - 127.697 km/h 5 - 28  Edson Souza/ Pedro Marques (M) - 127.546 km/h 6 - 18  Georges Lemonias (M) - 127.486 km/h 7 - 64  Marcos Philippi 1.401 7 2:01.787 5 127.373 km/h 8 - 87  Luiz Carlos Zappelini (M) - 127.252 km/h 9 - 01  Mario Broering - 127.214 km/h 10 - 75  Daniel Alberici/ João Ometto Neto - 127.169 km/h 11 - 25  Jorge Schuback (M) - 125.637 km/h 12 - 93  Felipe Matos - 124.584 km/h 13 - 10  Karim Machata - 123.044 km/h 14 - 14  Fabian Hengles (M) - 122.069 km/h 15 - 78  Arnaldo Santos - 118.783 km/h 16 - 22  Paulo Durci - 114.063 km/h",
+            "type": "text"
+        },
+        {
+            "content": "DQ 2  Rodrigo M. Pimenta/ Dimas III  - 129.685 km/h DQ 9  Pedro Gomes/ Marco Maragno  - 129.134 km/h",
+            "type": "text"
+        },
+        {
+            "content": "# 2, # 9 - DESCLASSIFICADOS POR IRREGULARIDADE TÉCNICA (resultados gerados por Racing Crono)",
+            "type": "text"
+        },
+        {
+            "content": "PRIMEIRA PROVA DE DOMINGO DA OLD STOCK RACE:",
+            "type": "text"
+        },
+        {
+            "content": "O paulista Pedro Gomes que divide agora o carro numero 9 com Marco Maragno foi punido na classificação por irregularidade técnica e não pode alinhar no grid e mesmo  largando dos boxes (veja vídeo abaixo) , veio construindo sua vitória realizando disputas incríveis chegando a ultrapassar 16 carros em apenas uma volta, tudo isso num piso que se tornava a cada minuto mais encharcado, fazendo com que os opalas andassem mais \"de lado\" ainda do que o de costume, levando o Opala # 9 a lugar mais alto do pódio.",
+            "type": "text"
+        },
+        {
+            "content": "Porém, devido a um erro de comunicação com a secretaria de provas Gomes trocou de bateria com o parceiro Marco Maragno e essa informação não foi realizada na secretaria de provas, causando sua desclassificação.",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/oti7W41VAe3wfbdBa1_gWzD8lP0=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_pista_etapa_3_a.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/x5Ex8zytpxWtF8mWFP-XKPyCXO0=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_pista_etapa_3_t.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/jQTTkUR5c9D8BVD7Wc9ejb83D9w=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_pista_etapa_3_s.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/UOgHHWO7uV1TpNLFTY-nPgJQoIc=/e.glbimg.com/og/ed/f/original/2017/05/24/old_stock_race_pista_etapa_3_r.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Entre uma prova e outra, tivemos papos interessantes com pilotos de distâncias distintas, um do sudeste e o outro do sul, provando ser a Old Stock Race uma categoria que passa os limites regionais de onde foi criada, de São Paulo.",
+            "type": "text"
+        },
+        {
+            "content": "Primeiro o piloto do Opala #78 , Arnaldo Santos ...",
+            "type": "text"
+        },
+        {
+            "content": "A segunda é com o piloto sulista do Opala #01 , Mario Broeing ...",
+            "type": "text"
+        },
+        {
+            "content": "SEGUNDA PROVA DE DOMINGO DA OLD STOCK RACE:",
+            "type": "text"
+        },
+        {
+            "content": "A chuva que já era intensa aumentou, deixando o cenário ainda mais emocionante. Rodrigo Helal (#113) , que herdou a primeira colocação no grid devido a desclassificação de Pedro Gomes na primeira prova largou muito bem, mas não conseguiu se livrar da perseguição de Rodrigo Pimenta (#2) que trouxe junto com ele na briga o opala numeral 87 de Luiz Zappelini.",
+            "type": "text"
+        },
+        {
+            "content": "Alguns pelotões se formaram durante a prova ocasionando muitas disputas de posições e o cenário deixava a competição muito mais emocionante devido a falta de aderência  dos opalas 6 cilindros com pneus radiais e mais de 300 cavalos de potência numa pista encharcada.",
+            "type": "text"
+        },
+        {
+            "content": "Lá na frente, a briga esquentou e Helal , que durante as 4 primeiras voltas abriu uma certa vantagem do segundo e terceiro colocado, começou a ter sua liderança comprometida quando Rodrigo Pimenta se aproximou e fez a ultrapassagem e assumiu a ponta.",
+            "type": "text"
+        },
+        {
+            "content": "Luiz Zappelini que largou muito bem cometeu um erro na terceira volta caindo para a quinta colocação mas se recuperou muito rápido e voltou a perseguir os dois primeiros, ultrapassando o opala #113 de Helal e indo à caça de Rodrigo Pimenta , que não conseguiu resistir a pressão sendo ultrapassado na sétima volta. Dai pra frente, Zappelini administrou bem sua liderança, mesmo tendo que negociar algumas ultrapassagens com retardatários e sempre tendo Rodrigo Pimenta e Helal ao no seu encalço.",
+            "type": "text"
+        },
+        {
+            "content": "A prova terminou com Zappelini em primeiro, Rodrigo Pimenta em segundo, Rodrigo Helal em terceiro e completando o pódio, Rodrigo Leite em quarto e Grego Lemonias em quinto.",
+            "type": "text"
+        },
+        {
+            "content": "Após a competição, foram observadas irregularidades técnicas pelos comissários da FASP e 16 carros perderam sua pontuação. Apenas o opala #9 , que na primeira prova teve seus pontos cancelados, não sofreu punição, sendo assim declarado oficialmente vencedor da prova e marcando 30 pontos.",
+            "type": "text"
+        },
+        {
+            "content": "CONFIRA O CALENDÁRIO DA OLD STOCK RACE DE 2017:",
+            "type": "text"
+        },
+        {
+            "content": "1ª etapa: 30/03 a 02/04 Abril – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "2ª etapa: 27/04 a 30/04 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "3ª etapa: 18/05 a 21/05 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "4ª etapa: 08/06 a 11/06 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "5ª etapa: 29/06 a 02/07 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "6ª etapa: 27/07 a 30/07 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "7ª etapa: 17/08 a 20/08 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "8ª etapa: 31/08 a 03/09 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "9ª etapa: 14/12 a 17/12 – São Paulo, Interlagos – 02 corridas",
+            "type": "text"
+        },
+        {
+            "content": "Fonte: FASP",
+            "type": "text"
+        },
+        {
+            "content": "A classificação final do Campeonato Paulista da OLD STOCK RACE , será obtida pelo sistema de pontos corridos podendo ter descartes. São três as classes de classificação: 1. Classe Geral, para todos os pilotos; 2. Classe Old Man, para pilotos de 55 anos e acima; 3. Classe Carro , para o carro que somar maior número de pontos, somados sempre pelas duas provas. Será declarado campeão aquele piloto/carro/equipe, que somar o maior número de pontos, com descarte de duas provas. O descarte só poderá ser feito em provas que o piloto tenha participado.",
+            "type": "text"
+        },
+        {
+            "content": "A pontuação da Old Stock Race : Segue abaixo o critério de pontuação que será atribuída ao piloto conforme sua posição ao final de cada uma das provas. 1º - 30, 2º - 28, 3º - 26, 4º - 24, 5º - 22, 6º - 20, 7º - 18, 8º - 16, 9º - 14, 10º - 12, 11º - 10, 12º - 09, 13º - 08, 14º - 07, 15º - 06, 16º - 05, 17º - 04, 18º - 03, 19º - 02, 20º - 01",
+            "type": "text"
+        },
+        {
+            "content": "Em todos os carros participantes em todas as categorias, será obrigatória a instalação de, no mínimo, uma câmera “on board” para coleta de imagens, durante os treinos livres, treinos classificatórios e prova. A câmera deverá ser instalada no Santo Antonio a direita do Piloto mostrando as mãos sobre a direção e mais as imagens dianteiras. Isso é parte integrante de documentação visual caso aja algum incidente.",
+            "type": "text"
+        },
+        {
+            "content": "DROPS DA OLD STOCK RACE COM OS OPALEIROS:",
+            "type": "text"
+        },
+        {
+            "content": "http://s2.glbimg.com/C_O8gG6zH3gPytisjeP32n9l6rc=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_a.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/QZCf1My1dxqYLZxgNtNldfg4GFQ=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_b.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/bK8ho0IGfl3Pzavh7edhoGEdXWA=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_c.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/qE5jayKSL3k9Rx-2jEnTVp-Kdb4=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_e.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/kdZMtwBxDJ3yEq8Pr3RShjLhC38=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_d.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/Xr4RyCxzq-_Mym3Ddnm3GFDAMhU=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_f.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/ml6BTvx-E6tU_DBNC_V5fU41IO8=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_g.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/brZ0k6G11wsfqUVIjh1_QRVikGU=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_l.jpg",
+            "type": "image"
+        },
+        {
+            "content": "http://s2.glbimg.com/Hfww-9wgDaNBOb4XOczntoQGa-c=/e.glbimg.com/og/ed/f/original/2017/05/24/opaleiros_old_stock_race_etapa_3_h.jpg",
+            "type": "image"
+        },
+        {
+            "content": "Alguns botões: Facebook @conexaosaloma Instagram @conexaosaloma Twitter @conexaosaloma Flickr Luiz Salomão - Conexão Saloma Linkedin www.linkedin.com",
+            "type": "text"
+        }
+    ]
+}

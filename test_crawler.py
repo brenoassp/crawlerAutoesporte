@@ -2,6 +2,9 @@ import pytest
 import crawler
 from urllib.request import urlopen
 from urllib.error import HTTPError
+import random
+import datetime
+from bs4 import BeautifulSoup
 
 def test_page_was_successfully_opened():
 	urlopen(crawler.url_to_be_crawled())
@@ -33,13 +36,6 @@ def test_gotten_links_are_correct():
 
 	assert some_urls_set.issubset(gotten_urls_set)
 
-def test_dict_items_have_correct_structure():
-	dict_items = crawler.get_dict_item_list()
-	for dict_item in dict_items:
-		assert "title" in dict_item
-		assert "link" in dict_item
-		assert "content" in dict_item
-
 def test_dict_item_titles_is_equal_to_xml_titles():
 	dict_item_list = crawler.get_dict_item_list()
 	dict_item_titles = []
@@ -49,3 +45,73 @@ def test_dict_item_titles_is_equal_to_xml_titles():
 	titles_xml_set = set(crawler.get_titles_xml())
 
 	assert len(titles_dict_items_set.symmetric_difference(titles_xml_set)) == 0
+
+def test_div_contains_class_foto():
+	soup = BeautifulSoup('<div></div>', "html.parser")
+
+	assert crawler.is_div_that_contains_img(soup.div) == False
+
+	soup = BeautifulSoup('<div><img alt="zzz"></img></div>', "html.parser")
+
+	assert crawler.is_div_that_contains_img(soup.div) == True
+
+def test_tag_is_paragraph():
+	soup = BeautifulSoup('<div><p></p></div>', "html.parser")
+
+	assert crawler.is_paragraph(soup.div) == False
+
+	assert crawler.is_paragraph(soup.p) == True
+
+def test_div_that_contains_links():
+	soup = BeautifulSoup('<div><p></p></div>', "html.parser")
+
+	assert crawler.is_div_that_contains_links(soup.div) == False
+
+	soup = BeautifulSoup('<div class="saibamais"></div>', "html.parser")
+
+	assert crawler.is_div_that_contains_links(soup.div) == True
+
+def test_paragraph_is_empty():
+	soup = BeautifulSoup('<div><p></p></div>', "html.parser")
+
+	assert crawler.paragraph_is_empty(soup.p) == True
+
+	soup = BeautifulSoup('<div><p>zzz</p></div>', "html.parser")
+
+	assert crawler.paragraph_is_empty(soup) == False
+
+def test_get_dict_by_item():
+	random.seed(datetime.datetime.now())
+	items = crawler.get_items()
+	item = items[random.randint(0, len(items)-1)]
+	d = crawler.get_dict_by_item(item)
+
+	assert "title" in d
+
+	assert "link" in d
+
+	assert type(d["content"]) is list
+
+	assert len(d["content"]) > 0
+
+	for c in d["content"]:
+		assert "type" in c
+		assert "content" in c
+		assert "image" or "text" or "links" in c
+
+def test_dict_items_have_correct_structure():
+	dict_item_list = crawler.get_dict_item_list()
+	random.seed(datetime.datetime.now())
+	for i in range(0,5):
+		index_of_item_to_be_tested = random.randint(0, len(dict_item_list)-1)
+		assert "title" in dict_item_list[index_of_item_to_be_tested]
+		assert "link" in dict_item_list[index_of_item_to_be_tested]
+		assert "content" in dict_item_list[index_of_item_to_be_tested]
+		assert type(dict_item_list[index_of_item_to_be_tested]["content"]) is list
+		for j in range(0,3):
+			index_of_content_to_be_tested = random.randint(0, len(dict_item_list[index_of_item_to_be_tested]["content"]))
+			assert "type" in dict_item_list[index_of_item_to_be_tested]["content"][index_of_content_to_be_tested]
+			assert "content" in dict_item_list[index_of_item_to_be_tested]["content"][index_of_content_to_be_tested]
+			possible_type_set = set(["image", "text", "links"])
+			type_current_item_set = set([dict_item_list[index_of_item_to_be_tested]["content"][index_of_content_to_be_tested]["type"]])
+			assert type_current_item_set.issubset(possible_type_set)
