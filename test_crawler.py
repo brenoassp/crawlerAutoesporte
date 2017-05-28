@@ -11,7 +11,7 @@ def test_gotten_titles_are_correct():
 					'Hyundai lança série de vídeos teaser do SUV Kona',
 					'Fiat Argo tem cadastro para test drive e primeira promoção',
 					'Chevrolet Prisma 2018 chega com novos itens, mas mais caro'])
-	gotten_titles = crawler.get_titles()
+	gotten_titles = crawler.get_titles_xml()
 
 	assert type(gotten_titles) is list
 	assert len(gotten_titles) > 0
@@ -32,3 +32,20 @@ def test_gotten_links_are_correct():
 	gotten_urls_set = set(gotten_urls)
 
 	assert some_urls_set.issubset(gotten_urls_set)
+
+def test_dict_items_have_correct_structure():
+	dict_items = crawler.get_dict_item_list()
+	for dict_item in dict_items:
+		assert "title" in dict_item
+		assert "link" in dict_item
+		assert "content" in dict_item
+
+def test_dict_item_titles_is_equal_to_xml_titles():
+	dict_item_list = crawler.get_dict_item_list()
+	dict_item_titles = []
+	for d in dict_item_list:
+		dict_item_titles.append(d["title"])
+	titles_dict_items_set = set(dict_item_titles)
+	titles_xml_set = set(crawler.get_titles_xml())
+
+	assert len(titles_dict_items_set.symmetric_difference(titles_xml_set)) == 0
