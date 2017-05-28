@@ -4,7 +4,7 @@ from urllib.request import urlopen
 def url_to_be_crawled():
 	return "http://revistaautoesporte.globo.com/rss/ultimas/feed.xml"
 
-def getTitles():
+def get_titles():
 	html = urlopen(url_to_be_crawled())
 	bs = BeautifulSoup(html, "html.parser")
 	items = bs.findAll("item")

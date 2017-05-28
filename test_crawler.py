@@ -11,7 +11,7 @@ def test_gotten_titles_are_correct():
 					'Hyundai lança série de vídeos teaser do SUV Kona',
 					'Fiat Argo tem cadastro para test drive e primeira promoção',
 					'Chevrolet Prisma 2018 chega com novos itens, mas mais caro'])
-	gotten_titles = crawler.getTitles()
+	gotten_titles = crawler.get_titles()
 
 	assert type(gotten_titles) is list
 	assert len(gotten_titles) > 0
@@ -24,7 +24,7 @@ def test_gotten_links_are_correct():
 	some_urls_set = set(['http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/donald-trump-quer-impedir-vendas-de-carros-alemaes-nos-eua.html',
 					'http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/fiat-argo-tem-cadastro-para-test-drive-e-primeira-promocao.html',
 					'http://revistaautoesporte.globo.com/Noticias/noticia/2017/05/tudo-sobre-o-evento-qual-comprar-2017.html'])
-	gotten_urls = crawler.getUrls()
+	gotten_urls = crawler.get_urls()
 
 	assert type(gotten_urls) is list
 	assert len(gotten_urls) > 0
